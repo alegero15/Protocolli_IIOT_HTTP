@@ -8,6 +8,6 @@ namespace NetCoreClient.Sensors
 {
     internal interface IMoveSensorInterface
     {
-        int Move();
+        int[] Move();
     }
 }

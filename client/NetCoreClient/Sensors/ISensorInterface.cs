@@ -3,6 +3,5 @@
     interface ISensorInterface
     {
         string ToJson();
-
     }
 }

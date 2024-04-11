@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Utente\\Desktop\\Protocolli_IIOT_Test\\Protocolli_IIOT_Test\\client\\NetCoreClient\\NetCoreClient.csproj": {}
+    "C:\\Users\\Utente\\Desktop\\ProtocolliIIOT\\Protocolli_IIOT_Test\\client\\NetCoreClient\\NetCoreClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Utente\\Desktop\\Protocolli_IIOT_Test\\Protocolli_IIOT_Test\\client\\NetCoreClient\\NetCoreClient.csproj": {
+    "C:\\Users\\Utente\\Desktop\\ProtocolliIIOT\\Protocolli_IIOT_Test\\client\\NetCoreClient\\NetCoreClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Utente\\Desktop\\Protocolli_IIOT_Test\\Protocolli_IIOT_Test\\client\\NetCoreClient\\NetCoreClient.csproj",
+        "projectUniqueName": "C:\\Users\\Utente\\Desktop\\ProtocolliIIOT\\Protocolli_IIOT_Test\\client\\NetCoreClient\\NetCoreClient.csproj",
         "projectName": "NetCoreClient",
-        "projectPath": "C:\\Users\\Utente\\Desktop\\Protocolli_IIOT_Test\\Protocolli_IIOT_Test\\client\\NetCoreClient\\NetCoreClient.csproj",
+        "projectPath": "C:\\Users\\Utente\\Desktop\\ProtocolliIIOT\\Protocolli_IIOT_Test\\client\\NetCoreClient\\NetCoreClient.csproj",
         "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Utente\\Desktop\\Protocolli_IIOT_Test\\Protocolli_IIOT_Test\\client\\NetCoreClient\\obj\\",
+        "outputPath": "C:\\Users\\Utente\\Desktop\\ProtocolliIIOT\\Protocolli_IIOT_Test\\client\\NetCoreClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Utente\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,9 +40,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
               "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [

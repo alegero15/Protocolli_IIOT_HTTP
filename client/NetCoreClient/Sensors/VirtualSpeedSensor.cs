@@ -1,4 +1,5 @@
 ﻿using NetCoreClient.ValueObjects;
+using System.Reflection.Metadata.Ecma335;
 using System.Text.Json;
 
 namespace NetCoreClient.Sensors
@@ -22,5 +23,6 @@ namespace NetCoreClient.Sensors
         {
             return JsonSerializer.Serialize(Speed());
         }
+
     }
 }

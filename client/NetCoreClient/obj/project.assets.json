@@ -608,11 +608,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Utente\\Desktop\\ProtocolliIIOT\\Protocolli_IIOT_Test\\client\\NetCoreClient\\NetCoreClient.csproj",
+      "projectUniqueName": "C:\\Users\\Utente\\Desktop\\IIOT\\Protocolli IIOT\\ProtocolliIIOT-HTTP\\Protocolli_IIOT_Test\\client\\NetCoreClient\\NetCoreClient.csproj",
       "projectName": "NetCoreClient",
-      "projectPath": "C:\\Users\\Utente\\Desktop\\ProtocolliIIOT\\Protocolli_IIOT_Test\\client\\NetCoreClient\\NetCoreClient.csproj",
+      "projectPath": "C:\\Users\\Utente\\Desktop\\IIOT\\Protocolli IIOT\\ProtocolliIIOT-HTTP\\Protocolli_IIOT_Test\\client\\NetCoreClient\\NetCoreClient.csproj",
       "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Utente\\Desktop\\ProtocolliIIOT\\Protocolli_IIOT_Test\\client\\NetCoreClient\\obj\\",
+      "outputPath": "C:\\Users\\Utente\\Desktop\\IIOT\\Protocolli IIOT\\ProtocolliIIOT-HTTP\\Protocolli_IIOT_Test\\client\\NetCoreClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Utente\\AppData\\Roaming\\NuGet\\NuGet.Config",

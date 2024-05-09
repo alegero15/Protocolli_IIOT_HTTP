@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xCiV6+kgY7SV/aW8MM0Sts6QKRbfxFrb1uaVrrtA+UJd2wTMbJVfgdvy9y/tZ5UI+Ta1nWSSxyp84e+wqoEaUw==",
+  "dgSpecHash": "to9M8UaQW0a93RSGzYtYE/gd0wKQ5OfTdTcbCbJksdkxcy95stOUfsY1XGn6avFzumvOVLrJDnh60vTBON4hqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Utente\\Desktop\\ProtocolliIIOT\\Protocolli_IIOT_Test\\client\\NetCoreClient\\NetCoreClient.csproj",
+  "projectFilePath": "C:\\Users\\Utente\\Desktop\\IIOT\\Protocolli IIOT\\ProtocolliIIOT-HTTP\\Protocolli_IIOT_Test\\client\\NetCoreClient\\NetCoreClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Utente\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Utente\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
